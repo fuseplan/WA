@@ -49,8 +49,9 @@ Start the server
 ```bash
   npm run start
 ```
+![fuselogo](https://github.com/fuseplan/WA/assets/40660678/e5c385dd-cb05-44e6-8b26-d35fa13e7421)
 
-<img src="images/fuselogo.png >
+
 
 ## Badges
 
