@@ -49,7 +49,10 @@ Start the server
 ```bash
   npm run start
 ```
+## LOGO
 ![fuselogo](https://github.com/fuseplan/WA/assets/40660678/e5c385dd-cb05-44e6-8b26-d35fa13e7421)
+## Website 
+![Screenshot 2023-10-05 at 4 45 58 PM (2)](https://github.com/fuseplan/WA/assets/40660678/23dcff91-2794-4269-9d11-1c8f7a1f9eef)
 
 
 
